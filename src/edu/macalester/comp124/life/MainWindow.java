@@ -14,6 +14,8 @@ import java.text.ParseException;
  * Main window class for running and displaying the Life simulation.
  * 
  * @author Michael Ekstrand <ekstrand@cs.umn.edu>
+ *
+ * Edited by Marcio Porto for COMP 124 - Game of Life Lab
  * 
  * This class provides the main interface to the Life system, including its main
  * entry point and its main window.

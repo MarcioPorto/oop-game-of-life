@@ -4,6 +4,8 @@ package edu.macalester.comp124.life;
  * RuleSet implementing Conway's Game of Life.
  *
  * @author Michael Ekstrand <ekstrand@cs.umn.edu>
+ *
+ * Edited by Marcio Porto for COMP 124 - Game of Life Lab
  */
 
 public class Conway implements RuleSet {

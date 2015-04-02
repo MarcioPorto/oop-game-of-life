@@ -9,6 +9,8 @@ import static org.junit.Assert.*;
  * Test cases for the GameBoard class.
  * @author Michael Ekstrand <ekstrand@cs.umn.edu>
  *
+ * Edited by Marcio Porto for COMP 124 - Game of Life Lab
+ *
  * These tests test a number of basic operations on the GameBoard class.  They
  * are not exhaustive, but exercise it a fair amount. 
  */

@@ -9,6 +9,7 @@ import static org.junit.Assert.*;
  * Test cases for the Conway ruleset
  * @author Michael Ekstrand <ekstrand@cs.umn.edu>
  *
+ * Edited by Marcio Porto for COMP 124 - Game of Life Lab
  */
 public class ConwayTest {
 

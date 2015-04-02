@@ -7,6 +7,8 @@ import java.io.*;
  * 
  * @author Michael Ekstrand <ekstrand@cs.umn.edu>
  *
+ * Edited by Marcio Porto for COMP 124 - Game of Life Lab
+ *
  * This class uses a RuleSet to implement a board for the game of edu.macalester.comp124.life.  It
  * implements a standard non-wrapping Life board, with the edges of the board
  * bordered by dead cells.

@@ -12,6 +12,8 @@ import java.util.Set;
  * JComponent to display and manipulate the edu.macalester.comp124.life grid.
  * @author Michael Ekstrand <ekstrand@cs.umn.edu>
  *
+ * Edited by Marcio Porto for COMP 124 - Game of Life Lab
+ *
  * This class handles display and manipulation of the Life grid on the screen.
  */
 @SuppressWarnings("serial")
